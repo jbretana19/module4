@@ -1,0 +1,49 @@
+body {
+  /* Background image for the entire body */
+  background-image: url('images/fog-wallpaper.jpg'); /* Imaged sourced from Freepik */
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #f5f5f5; /* Background color added */
+  margin: 0;
+  padding: 0;
+  font-family: 'Helvetica Neue', Arial, sans-serif; /* Additional styling */
+}
+
+table, th, td {
+border-collapse: collapse;
+border: 1px solid #18191A; /* Border color changed */
+padding: 1em;
+}
+
+/* Additional styling */
+a:link {
+  color: #af2268;      /* Default link color */
+  text-decoration: none;
+}
+
+a:visited {
+  color: #723d57;      /* Visited link color */
+  text-decoration: none;
+}
+
+a:hover {
+  color: #c90076;      /* Hover state color */
+  text-decoration: underline;
+}
+
+a:active {
+  color: #674ea7;      /* Active (clicked) state color */
+  text-decoration: none;
+}
+
+/* Additional styling */
+h1 {
+  font-size: 2.5rem;
+  background-color: #222222; /* Background color added */
+  color: #000000;
+  text-align: center;
+  text-transform: uppercase;
+  margin-top: 1em;
+  margin-bottom: 0.5em;
+  letter-spacing: 1px;
+}
