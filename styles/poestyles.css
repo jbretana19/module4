@@ -3,13 +3,13 @@ body {
   background-image: url('images/fog-wallpaper.jpg'); /* Imaged sourced from Freepik */
   background-repeat: no-repeat;
   background-size: cover;
-  background-color: #f5f5f5; /* Background color added */
   margin: 0;
   padding: 0;
   font-family: 'Helvetica Neue', Arial, sans-serif; /* Additional styling */
 }
 
 table, th, td {
+background-color: #f5f5f5; /* Background color added */
 border-collapse: collapse;
 border: 1px solid #18191A; /* Border color changed */
 padding: 1em;
